@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Full Stack developer</h1>
-<h3 align="center">A passionate & aspiring software engineer</h3>
+<h1 align="center">Hi 👋, I'm a Sr. Software Engineer</h1>
+<h3 align="center">A passionate & aspiring software engineer with full exp</h3>
 
 
 ```sh
@@ -19,8 +19,8 @@ var developements = {
 ```
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/devstar107/](https://github.com/devstar107/)
-- 📫 How to reach me, drop an email at **dreambus.dev@gmail.com**
+[https://github.com/awesomedevchris/](https://github.com/awesomedevchris/)
+- 📫 How to reach me, drop an email at **camitchell1982@gmail.com**
 - 👍 Thanks for visiting my profile. Follow me to get all the updates about my repositories and my open source works.
 
 ## 
